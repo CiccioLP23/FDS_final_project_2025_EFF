@@ -6,6 +6,12 @@ This project is based on a prediction with deep neural network models (Convoluti
 Problem: Our goal is to predict from _x-ray-scanner-images_ if there are one or more _prohibited items_.
 
 Data: from https://github.com/lutao2021/PIDray/tree/main -> dataset: https://drive.google.com/drive/folders/1zvMIc1bqteRN9Z36hHYpoTGoZArsh4mE
-Literature review: PIDray: A Large-scale X-ray Benchmark for Real-World Prohibited Item Detection di L. Zhang
+
+
+Literature review: "PIDray: A Large-scale X-ray Benchmark for Real-World Prohibited Item Detection" (L. Zhang)
+
+
 Method: CNN
+
+
 Results:... to be continued
