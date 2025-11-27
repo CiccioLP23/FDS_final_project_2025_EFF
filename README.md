@@ -4,7 +4,7 @@ The project was assigned by Professor Spinelli I. of the course Fundamentals of 
 
 This project is based on a prediction with deep neural network models (Convolutional).
 
-Problem: Our goal is to predict from _x-ray-scanner-images_ if there are one or more _prohibited items_.
+Problem: Our goal is to predict from _x-ray-scanner-images_ if there are or not _prohibited items_.
 
 Data: from https://github.com/lutao2021/PIDray/tree/main -> dataset: https://drive.google.com/drive/folders/1zvMIc1bqteRN9Z36hHYpoTGoZArsh4mE
 
