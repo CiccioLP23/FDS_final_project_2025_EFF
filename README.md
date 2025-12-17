@@ -1,8 +1,6 @@
-# FDS Final Project 2025 — X-ray Prohibited Item Classification
+# FDS Final Project 2025 — Optimization Process for Airport Security
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VSXpa6jZOwrrBQRCNLKQ9w3wmlUpf7FT?usp=sharing)
-
-
 
 
 Repository for the final project of the course *Fundamentals of Data Science*  
@@ -38,7 +36,8 @@ Zhang, L. et al. (2022).
 The project methodology includes:
 - Subset extraction and preprocessing  
 - Train/validation splitting  
-- Deep learning pipelines using convolutional neural networks (CNN)  
+- Deep learning pipelines using convolutional neural networks (CNN)
+- YOLOv8 Model application, with Hyperparameter Research
 - Evaluation metrics: accuracy, precision, recall, F1-score, confusion matrix  
 - Optional interpretability through Grad-CAM
 
@@ -61,3 +60,4 @@ See the `requirements.txt` file for Python dependencies.
 ## How to Run
 
 Instructions will be added once the training pipeline is finalized.
+<img width="482" height="703" alt="image" src="https://github.com/user-attachments/assets/ec463c70-9d86-4c52-8733-f99ee0d56cf6" />
